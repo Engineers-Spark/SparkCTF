@@ -8,6 +8,9 @@
 
 Repository for all editions of SparkCTF!
 
+SparkCTF is a yearly Tunisian Capture The Flag competition run by Engineers Spark. This event includes challenges designed for beginners and experienced players alike.
+
+
 
 
 # Editions
