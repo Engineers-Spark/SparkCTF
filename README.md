@@ -15,35 +15,6 @@ SparkCTF is a yearly Tunisian Capture The Flag competition run by Engineers Spar
 
 # Editions
 
-[2022](./2022/)
-
-| Challenge       | Category | Author              |
-|-----------------|----------|---------------------|
-| Teach me        | web      | j3seer              |
-| cat generator   | web      | j3seer              |
-| Quotes          | web      | j3seer              |
-| ezpz1           | rev      | minerva             |
-| ezpz2           | rev      | minerva             |
-| Virtual Machine | rev      | minerva             |
-| baby pwny       | pwn      | 7rocky              |
-| baby-stack      | pwn      | muwa00              |
-| f-xit           | pwn      | 7rocky              |
-| margot          | pwn      | 7rocky              |
-| stack           | pwn      | muwa00              |
-| x-bof           | pwn      | 7rocky              |
-| Auto 1          | misc     | jawh3r20            |
-| Auto 2          | misc     | jawh3r20            |
-| MALWHERE        | foren    | iwd, cybereagle2001 |
-| Threat          | foren    | cybereagle2001      |
-| Voluversity     | foren    | jawh3r20, iwd       |
-| ghost           | foren    | 0x3ifa              |
-| special         | foren    | iwd                 |
-| NA              | crypto   | Kiona               |
-| Super Smooth    | crypto   | Kiona               |
-| ecss            | crypto   | Kiona               |
-
----
-
 [2024](./2024/)
 
 | Challenge                                       | Category | Author   |
@@ -87,4 +58,33 @@ SparkCTF is a yearly Tunisian Capture The Flag competition run by Engineers Spar
 
 ---
 
+
+[2022](./2022/)
+
+| Challenge       | Category | Author              |
+|-----------------|----------|---------------------|
+| Teach me        | web      | j3seer              |
+| cat generator   | web      | j3seer              |
+| Quotes          | web      | j3seer              |
+| ezpz1           | rev      | minerva             |
+| ezpz2           | rev      | minerva             |
+| Virtual Machine | rev      | minerva             |
+| baby pwny       | pwn      | 7rocky              |
+| baby-stack      | pwn      | muwa00              |
+| f-xit           | pwn      | 7rocky              |
+| margot          | pwn      | 7rocky              |
+| stack           | pwn      | muwa00              |
+| x-bof           | pwn      | 7rocky              |
+| Auto 1          | misc     | jawh3r20            |
+| Auto 2          | misc     | jawh3r20            |
+| MALWHERE        | foren    | iwd, cybereagle2001 |
+| Threat          | foren    | cybereagle2001      |
+| Voluversity     | foren    | jawh3r20, iwd       |
+| ghost           | foren    | 0x3ifa              |
+| special         | foren    | iwd                 |
+| NA              | crypto   | Kiona               |
+| Super Smooth    | crypto   | Kiona               |
+| ecss            | crypto   | Kiona               |
+
+---
 
