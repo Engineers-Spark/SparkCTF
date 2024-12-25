@@ -1,0 +1,6 @@
+Description : 
+
+Upon learning that Spark Security Agency's agents were hot on his trail, Dr. Cosmo Byte hastily fled to an undisclosed location. However, luck seemed to be on the agency's side as they managed to obtain an image of Dr. Cosmo refueling his car. With this crucial piece of information in hand, the pursuit for Dr. Cosmo's whereabouts intensified. 
+
+Flag format : SparkCTF{exact_place_Car_Model}
+Points : 500

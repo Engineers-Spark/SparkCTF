@@ -1,0 +1,11 @@
+version: "3"
+services:
+  endbyte:
+    container_name: endbyte
+    hostname: endbyte
+    image: endbyte
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "1478:1478"

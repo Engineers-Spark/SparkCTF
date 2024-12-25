@@ -1,0 +1,2 @@
+name,description,category,value,type,state,max_attempts,flags,tags,hints,type_data	
+Rusty Flag Checker, Yet another flag checker but in Rust!,Reverse Engineering,500,dynamic,hidden,10,SparkCTF{_4nGryy_cH4nGry_w1Th_SpArkY_F4ngry_},,,"{""initial"":500, ""minimum"":100, ""decay"":20}"	

@@ -1,0 +1,10 @@
+Description:
+
+In the shadowy recesses of the scientific community, Dr. Cosmo Byte's malevolent activities unfolded like a sinister symphony. Fueled by a thirst for power and a twisted sense of destiny, he hatched a plan to destroy Earth using forbidden knowledge hidden within the depths of space. Unbeknownst to the world, Dr. Byte had discovered a cosmic anomaly capable of catastrophic consequences for the planet.
+    
+Spark Security Agency has assembled a specialized Technical Team known as "The Guardians of The Galaxy" with the mission of tracking down Dr. Cosmo Byte and neutralizing his dangerous weaponry.
+
+By tracking some nuclear activity , there was an increase in the Sievert ( **is a unit used to assess the impact of radioactivity on the human body**) Somewhere which was suspicious . Can you discover what’s the Mindat id of this place ?
+
+Flag Format : SparkCTF{0123456}
+Points : 100

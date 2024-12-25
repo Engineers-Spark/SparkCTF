@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  pyhell:
+    container_name: pyhell
+    hostname: pyhell
+    image: pyhell
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "1337:1337"

@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  wiggle:
+    restart: on-failure
+    image: crypto/wiggle
+    container_name: wiggle
+    networks:
+      - host
+    build:
+      context: .
+    ports:
+      - 10001:1337
+
+networks:
+  host:
+    external: true
+  

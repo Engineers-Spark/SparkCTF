@@ -1,0 +1,2 @@
+name,description,category,value,type,state,max_attempts,flags,tags,hints,type_data	
+Wiggle, Wiggle wiggle wiggle!,Cryptography,500,dynamic,hidden,10,SparkCTF{W_Y3mchI_w1_Yji_7arAtatataan},,,"{""initial"":500, ""minimum"":100, ""decay"":20}"	

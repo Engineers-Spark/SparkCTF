@@ -1,0 +1,2 @@
+name,description,category,value,type,state,max_attempts,flags,tags,hints,type_data	
+Shakes, Wassuuuuup!,Cryptography,500,dynamic,hidden,10,SparkCTF{Substitution or permutation is the same isn't it ?},,,"{""initial"":500, ""minimum"":100, ""decay"":20}"	

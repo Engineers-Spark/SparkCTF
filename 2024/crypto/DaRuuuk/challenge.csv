@@ -1,0 +1,2 @@
+name,description,category,value,type,state,max_attempts,flags,tags,hints,type_data	
+DaRuuuk, And he sacrifices .. da ruuuk,Cryptography,500,dynamic,hidden,10,SparkCTF{r0cA3_m3cH_7r0ca_cHaLaboO0va},,,"{""initial"":500, ""minimum"":100, ""decay"":20}"	

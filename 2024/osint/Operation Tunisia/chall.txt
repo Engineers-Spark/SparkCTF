@@ -1,0 +1,20 @@
+- Task 2 : Operation : Tunisia
+Description :  
+During the 2011 revolution, a team of people decided to help the folks in Tunisia gain their freedom. Here's a chat they had :
+
+
+'''In January, 2011, Dilan contacted Chris, the journalist and Anon.    
+ “What are we going to do next?” Dilan asked.
+ “Tunisia,” Chris said.
+ “Yeah, it’s a country in the Middle East,” Dilan said. “What about it?” 
+ “We’re gonna take down its dictator,” Chris said. 
+ “Oh, they have a dictator?” Dilan said'''
+
+
+This group was known for doing lots of different things, and each member had special skills. One member, a young boy, played a big role until he got arrested and things got tough for him.
+
+Now, the challenge is to find this special boy and figure out what nickname he used back then.
+    
+Example : SparkCTF{Xslanter}
+Flag : SparkCTF{Tflow}
+Difficulty : medium (500 points)

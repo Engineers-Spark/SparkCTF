@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  picklestar:
+    container_name: picklestar
+    hostname: picklestar
+    image: picklestar
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "1458:1458"

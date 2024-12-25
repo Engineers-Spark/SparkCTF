@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  flowersv2:
+    container_name: flowersv2
+    hostname: flowersv2
+    image: flowersv2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "1587:80"

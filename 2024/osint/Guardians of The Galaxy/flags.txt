@@ -1,0 +1,3 @@
+Flag Part 1 : SparkCTF{629646}
+Flag Part 2 : SparkCTF{ESSO_KOWLOON_BAY#1_BMW_E46}
+Flag Part 3 : SparkCTF{G00d_J0b_I_4m_Gr0Ot}

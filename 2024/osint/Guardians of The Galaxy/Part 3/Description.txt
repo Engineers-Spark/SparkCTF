@@ -1,0 +1,4 @@
+During a routine container check, the team stumbled upon an enigmatic find — a suspicious container. Upon prying it open, the secrets of Dr. Cosmo Byte unfolded: his elusive plans and cryptic tools. This discovery ushered in a new phase of investigation into the concealed mysteries within. Find the secret equation to dismantle his destruction weapon and save humanity .
+
+Flag Format : SparkCTF{S0m3_L33T_StR1ng}
+Points: 1000

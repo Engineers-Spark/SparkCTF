@@ -1,0 +1,1 @@
+SparkCTF{pickle_pickle_little_payload?}
