@@ -1,3 +1,6 @@
 [submodule "SparkCTF-2025"]
 	path = 2025
 	url = https://github.com/Engineers-Spark/SparkCTF-2025
+[submodule "2025"]
+	path = 2025
+	url = https://github.com/Engineers-Spark/SparkCTF-2025
